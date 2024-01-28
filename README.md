@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/NGL-SPAM/main/banner.png?token=GHSAT0AAAAAACL2J3BU32KBJKYC5VTU32TMZMDOMZA", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/HyperX/main/HyperX.png", width="800", height="800">
 </p>
 <h1 align="center"> HyperX V.I.P</h1>
 <h4 align="center"> Enhance device power with HyperX – the ultimate performance boost, featuring cutting-edge features for unmatched speed and efficiency.</h4>

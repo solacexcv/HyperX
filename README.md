@@ -33,9 +33,7 @@
 ### Termux App
 * Run This All Commands In Termux App
 
-```
-apt install; apt update -y; apt upgrade -y; pkg install git -y; pkg install wget -y; cd /sdcard; git clone https://github.com/solacexcv/HyperX; cd /sdcard/HyperX
-```
+* apt install; apt update -y; apt upgrade -y; pkg install git -y; pkg install wget -y; cd /sdcard; git clone https://github.com/solacexcv/HyperX; cd /sdcard/HyperX
 
 ### Command To Run The HyperX
 ```
